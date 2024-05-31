@@ -1,0 +1,25 @@
+/*File:about.css
+  Name:Anteneh Guta
+  Student ID:301134828
+  Date : 29/05/2024
+*/
+.about-page {
+    text-align: center;
+    padding: 20px;
+}
+
+.profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+}
